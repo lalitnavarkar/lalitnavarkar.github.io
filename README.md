@@ -1,2 +1,2 @@
 # lalitnavarkar.github.io
-My person Blog
+My personal Blog
